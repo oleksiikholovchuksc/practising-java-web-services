@@ -1,0 +1,31 @@
+<phonebook>
+    <human_data>
+        <name>
+            Vasya
+        </name>
+
+        <phone>
+            0681234567
+        </phone>
+    </human_data>
+
+    <human_data>
+        <name>
+            Petya
+        </name>
+
+        <phone>
+            093523519
+        </phone>
+    </human_data>
+
+    <human_data>
+        <name>
+            Kolya
+        </name>
+
+        <phone>
+            0663174299
+        </phone>
+    </human_data>
+</phonebook>
